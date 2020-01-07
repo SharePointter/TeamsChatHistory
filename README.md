@@ -1,1 +1,1 @@
-# OutlookAddin-TeamsChatHistory
+# OutlookAddin
